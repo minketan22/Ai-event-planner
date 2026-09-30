@@ -1,6 +1,6 @@
-# AI Event Organizer
+# AI Event Planner
 
-AI Event Organizer turns a few event details into a practical event blueprint. Users can register, generate an AI-assisted plan, review the agenda and budget, save events, and manage checklist progress.
+AI Event planner turns a few event details into a practical event blueprint. Users can register, generate an AI-assisted plan, review the agenda and budget, save events, and manage checklist progress.
 
 ## Features
 
